@@ -12,8 +12,8 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->D:\flutter_projects\flutter_app_json\android\app\src\debug\AndroidManifest.xml:6:5-66
-14-->D:\flutter_projects\flutter_app_json\android\app\src\debug\AndroidManifest.xml:6:22-64
+14-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\debug\AndroidManifest.xml:6:5-66
+14-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\debug\AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 15-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\tarik_bp8jmj4\.gradle\caches\transforms-2\files-2.1\ebc4c3a2a182e3dd1f455b986e766110\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:24:5-79
 15-->[com.google.android.gms:play-services-measurement:17.2.2] C:\Users\tarik_bp8jmj4\.gradle\caches\transforms-2\files-2.1\ebc4c3a2a182e3dd1f455b986e766110\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:24:22-76
@@ -34,39 +34,39 @@
 24         FlutterApplication and put your custom class here.
 25    -->
 26    <application
-26-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:8:5-29:19
+26-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:8:5-29:19
 27        android:name="io.flutter.app.FlutterApplication"
-27-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:9:9-57
+27-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:9:9-57
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 28-->[androidx.core:core:1.0.0] C:\Users\tarik_bp8jmj4\.gradle\caches\transforms-2\files-2.1\96c4025afaac6452f26d95fca15db8ca\core-1.0.0\AndroidManifest.xml:22:18-86
 29        android:debuggable="true"
 30        android:icon="@mipmap/ic_launcher"
-30-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:11:9-43
+30-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:11:9-43
 31        android:label="flutterappjson" >
-31-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:10:9-39
+31-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:10:9-39
 32        <activity
-32-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:12:9-23:20
+32-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:12:9-23:20
 33            android:name="com.example.flutterappjson.MainActivity"
-33-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:13:13-41
+33-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:13:13-41
 34            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-34-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:16:13-163
+34-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:16:13-163
 35            android:hardwareAccelerated="true"
-35-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:17:13-47
+35-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:17:13-47
 36            android:launchMode="singleTop"
-36-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:14:13-43
+36-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:14:13-43
 37            android:theme="@style/LaunchTheme"
-37-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:15:13-47
+37-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:15:13-47
 38            android:windowSoftInputMode="adjustResize" >
-38-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:18:13-55
+38-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:18:13-55
 39            <intent-filter>
-39-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:19:13-22:29
+39-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:19:13-22:29
 40                <action android:name="android.intent.action.MAIN" />
-40-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:20:17-68
-40-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:20:25-66
+40-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:20:17-68
+40-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:20:25-66
 41
 42                <category android:name="android.intent.category.LAUNCHER" />
-42-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:21:17-76
-42-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:21:27-74
+42-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:21:17-76
+42-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:21:27-74
 43            </intent-filter>
 44        </activity>
 45        <!--
@@ -74,32 +74,32 @@
 47             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 48        -->
 49        <meta-data
-49-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:26:9-28:33
+49-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:26:9-28:33
 50            android:name="flutterEmbedding"
-50-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:27:13-44
+50-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:27:13-44
 51            android:value="2" />
-51-->D:\flutter_projects\flutter_app_json\android\app\src\main\AndroidManifest.xml:28:13-30
+51-->C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\android\app\src\main\AndroidManifest.xml:28:13-30
 52
 53        <service
-53-->[:cloud_firestore] D:\flutter_projects\flutter_app_json\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
+53-->[:cloud_firestore] C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-12:19
 54            android:name="com.google.firebase.components.ComponentDiscoveryService"
-54-->[:cloud_firestore] D:\flutter_projects\flutter_app_json\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
+54-->[:cloud_firestore] C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:8:18-89
 55            android:directBootAware="true"
 55-->[com.google.firebase:firebase-common:19.3.0] C:\Users\tarik_bp8jmj4\.gradle\caches\transforms-2\files-2.1\87d610133b8b52ad116c726424017ad2\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
 56            android:exported="false" >
 56-->[com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\tarik_bp8jmj4\.gradle\caches\transforms-2\files-2.1\f739fe0d34dc60c0fbb08c400b940cc6\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:29:13-37
 57            <meta-data
-57-->[:cloud_firestore] D:\flutter_projects\flutter_app_json\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+57-->[:cloud_firestore] C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 58                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
-58-->[:cloud_firestore] D:\flutter_projects\flutter_app_json\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-133
+58-->[:cloud_firestore] C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-133
 59                android:value="com.google.firebase.components.ComponentRegistrar" />
-59-->[:cloud_firestore] D:\flutter_projects\flutter_app_json\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+59-->[:cloud_firestore] C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\build\cloud_firestore\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 60            <meta-data
-60-->[:firebase_core] D:\flutter_projects\flutter_app_json\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
+60-->[:firebase_core] C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-11:85
 61                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
-61-->[:firebase_core] D:\flutter_projects\flutter_app_json\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
+61-->[:firebase_core] C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:10:17-123
 62                android:value="com.google.firebase.components.ComponentRegistrar" />
-62-->[:firebase_core] D:\flutter_projects\flutter_app_json\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
+62-->[:firebase_core] C:\Users\tarik_bp8jmj4\Desktop\New folder\deneme\build\firebase_core\intermediates\library_manifest\debug\AndroidManifest.xml:11:17-82
 63            <meta-data
 63-->[com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\tarik_bp8jmj4\.gradle\caches\transforms-2\files-2.1\f739fe0d34dc60c0fbb08c400b940cc6\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:30:13-32:85
 64                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
