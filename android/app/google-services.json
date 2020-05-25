@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "514318666478",
+    "firebase_url": "https://answernfind.firebaseio.com",
+    "project_id": "answernfind",
+    "storage_bucket": "answernfind.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514318666478:android:5cd163718adf68cce5c1ff",
+        "android_client_info": {
+          "package_name": "com.example.flutterappjson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514318666478-4dosgq7kicoiksgcvb49b27crb4ek8t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPHRcCI9aQ9IFPDT6PWaAyUZAJ2CpmooM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514318666478-uuh097tenddv4h24r3tp101b9fastt8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514318666478:android:c02e9aa33464cdf1e5c1ff",
+        "android_client_info": {
+          "package_name": "com.example.hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514318666478-4dosgq7kicoiksgcvb49b27crb4ek8t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPHRcCI9aQ9IFPDT6PWaAyUZAJ2CpmooM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514318666478-uuh097tenddv4h24r3tp101b9fastt8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514318666478:android:a78611b1b78b0c6de5c1ff",
+        "android_client_info": {
+          "package_name": "com.yamachu.FirestoreRe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514318666478-4dosgq7kicoiksgcvb49b27crb4ek8t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPHRcCI9aQ9IFPDT6PWaAyUZAJ2CpmooM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514318666478-uuh097tenddv4h24r3tp101b9fastt8r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
