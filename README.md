@@ -16,4 +16,4 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 <h1>Flutter and Firebase Cloudstore connection example</h1>
-<h2>Add: google-services.json</h2>
+<h2>! Add: google-services.json</h2>
